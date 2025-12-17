@@ -7,7 +7,8 @@ A large collection of free, open source or freeware utilities to use in Windows 
 7-Zip is a file archiver with a high compression ratio.<br>
 
 ## [DB Browser for SQLite](https://sqlitebrowser.org/about/) <b>(P)</b>
-DB Browser for SQLite (DB4S) is a high quality, visual, open source tool designed for people who want to create, search, and edit SQLite or SQLCipher database files. DB4S gives a familiar spreadsheet-like interface on the database in addition to providing a full SQL query facility. It works with Windows, macOS, and most versions of Linux and Unix. Documentation for the program is on the wiki.
+DB Browser for SQLite (DB4S) is a high quality, visual, open source tool designed for people who want to create, search, and edit SQLite or SQLCipher database files.\
+DB4S gives a familiar spreadsheet-like interface on the database in addition to providing a full SQL query facility. It works with Windows, macOS, and most versions of Linux and Unix. Documentation for the program is on the wiki.
 
 ## [DBF Viewer Plus](http://www.alexnolan.net/software/dbf.htm) <b>(P)</b>
 DBF Viewer Plus is a portable DBF database table viewer and editor plus some additional features for searching, importing and exporting to a number of different formats. DBF formats include dBase, Clipper and Foxpro.
